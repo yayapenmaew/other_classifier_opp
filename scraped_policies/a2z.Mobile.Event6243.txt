@@ -1,0 +1,200 @@
+Skip to content
+  
+Home
+Menu
+PRIVACY POLICY
+
+Diversified Communications (“Diversified”), together with its affiliates, which includes subsidiaries and entities that Diversified owns globally (collectively, “Diversified,” “we,” or “us”) connect, educate and strengthen business communities through market-leading events, digital products and publications. This Privacy Policy (“Policy”) describes our general privacy policy and practices in relation to Diversified’s websites, events, and services (collectively, the “Services”).
+
+In compliance with both the General Data Protection Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (“GDPR”) and The California Consumer Privacy Act of 2018 (“CPPA), this policy serves as Diversified’s GDPR Data Collection and Processing Notice and the CCPA required Notice.
+
+1. Applicability & Unique Rights for Some Persons
+
+This Policy applies to all individuals who provide personal data and personal information via visiting Diversified’s websites (“Visitors”), registering to use the Services (“Customers”), and registering to attend Diversified’s events (“Attendees”).
+
+Some of this Policy’s provisions have unique application to Visitors, Customers and Attendees from the state of California (“CA Persons”) who provide personal data and personal information within the scope of the CCPA. Other provisions have unique application to Visitors, Customers and Attendees from the European Economic Area (inclusive of the European Union and the United Kingdom and hereinafter referred to as “EU Persons”) who provide personal data and personal information within the scope of GDPR.
+
+A. Your Data Protection Rights Under (GDPR)
+
+1) For the purpose of this Privacy Policy, we are a Data Controller of your personal information.
+
+If you are and EU Person), our legal basis for collecting and using your personal information, as described in this Privacy Policy, depends on the information we collect and the specific context in which we collect it. We may process your personal information because:
+
+(i) We need to perform a contract with you, such as when you use our services You have given us permission to do so
+
+(ii) The processing is in our legitimate interests and it’s not overridden by your rights
+
+(iii) For payment processing purposes
+
+(iv) To comply with the law
+
+2. If you are a EU Person, you have certain data protection rights Including the following::
+
+(i) The right to access, update or to delete the personal information we have on you
+
+(ii) The right of rectification
+
+(iii) The right to object
+
+(iv) The right of restriction
+
+(v) The right to data portability
+
+(vi) The right to withdraw consent
+
+3) Please note that we may ask EU Persons to verify your identity before responding to such requests.
+
+4) EU Persons have the right to complain to the Data Protection Authority in your European Economic Area about our collection and use of your personal information and data.
+
+B. Your Data Protection Rights under CCPA including “Do Not Sell My Personal Information” Rights for CA Persons
+1) If you are a CA Person, you have certain data protection rights Including the following:
+
+(i) Request that a business that collects your information disclose the categories and specific pieces of personal data that it has collected.
+
+(ii) Request that a business delete any personal data about the consumer that it has collected.
+
+(iii) Request that a business NOT sell a consumer’s personal data.
+
+2) If a CA Person makes a request, we will respond in one month.
+
+3) Please note that we may ask CA Persons to verify your identity before responding to such requests.
+
+C. EU Persons or CA Persons who wish to exercise their data protection rights can do so by accessing our Data Request Portal.
+
+2. Information Collected
+
+How we collect and store information depends on the websites you visit, the activities in which you participate, and the Services you use. You can use some of the Services without providing any information, although several categories of information are automatically collected from you when you use the Services, as described below.
+
+A. Information You Provide
+
+When expressing an interest in obtaining additional information about the Services or registering to use the Services, Diversified requires you to provide personal data, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Services, Diversified may require you to provide financial qualification and billing information, such as, but not limited to, billing name and address, birth year, credit card number, and the total number of employees within the organization that will be using the Services (“Billing Information”).
+
+Diversified may also ask you to provide certain optional additional information, such as, but not limited to, company annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About Customers” in the case of Customers, “Data About Visitors” in the case of Visitors, and “Data About Attendees” in the case of Attendees. Pursuant to this Policy, “Data About Customers”, “Data About Visitors”, and “Data About Attendees” may include personal data.
+
+B. Automatically-Collected Information
+
+Diversified may automatically collect certain information about the computer or devices that are    used to access the Services, including mobile devices, through commonly-used information-  gathering tools, such as cookies and web beacons (“Website Navigational Information”). Website Navigational Information includes standard information from your browser or device (such as browser/device type and language), your Internet Protocol (“IP”) address, and the actions you take   on Diversified’s websites, such as the pages viewed and the links clicked. We may also collect and analyze information such as: (i) location information (as described in the next section below), unique device identifiers and other information about your mobile phone or other mobile device(s), browser types, browser language, operating system, the state or country from which you accessed the Services; and (ii) information related to the ways in which you interact with the Services, such as referring and exit pages and URLs, platform type, the number of clicks, domain names, landing  pages, pages viewed and the order of those pages, the amount of time spent on particular pages,   the date and time you used the Services, error logs, and other similar information. As described further below, we may use third-party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information.
+
+C. Location Information
+
+We may use information about your location to customize the Services with location-based information, advertising, features, or to determine regulatory applicability. If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this.
+
+D. Information From Others
+
+We may obtain information about you from third parties, such as marketers, partners, researchers, and others. If you access the Services through a third-party connection or log-in, you authorize Diversified to collect, store, and use, in accordance with this Policy, any and all information available to Diversified through the third-party interface. Should you choose to voluntarily disclose information through the Services, such as on message boards, third parties can view publicly and collect that information without our knowledge and such disclosure may result in unsolicited messages from other individuals or third parties.
+
+E. Aggregate or De-Identified Data
+
+We may aggregate and/or de-identify information collected by the Services or other means so that the information is not intended to identify you. This Policy does not restrict our use or disclosure of aggregated and/or de-identified information.
+
+3. Cookies
+
+This Section describes our practices with respect to how we use cookies. By using our Services with your browser set to accept cookies, you are consenting to our use of cookies in the manner described herein.
+
+A) We may collect data about your use of the Services through the use of cookies, Internet server logs, tracking pixels (also called web beacons) and similar technologies. A cookie is a small text file that is placed on your computer or mobile device when you visit a website, that enables us to recognize your computer/device, store your preferences and settings, enhance your user experience by delivering content specific to your interests, perform searches and analytics, and assist with security administrative functions. An Internet server log is a file where website activity is stored. Server logs are used to track usage and provide security. A tracking pixel, which is also referred to as a web beacon or a clear GIF, is an electronic tag with a unique identifier that is embedded on webpages, in online advertisements and/or email. These pixels are designed to provide usage information, such    as advertising impressions or clicks, measure popularity of the Services and associated advertising, and access user cookies.
+
+B) We use third parties to assist us in advertising, tracking aggregated and/or de-identified site usage statistics, and providing content-sharing services to support the Services. These third parties may also use cookies and similar technologies to collect similar information about your use of the Services. For instance, the cookies may reflect de-identified data linked to or derived from data you voluntarily have submitted to us, e.g., a hashed version of your email address, which we may share with service providers, solely in non-human readable form. We do not control these third-party technologies, and their use is governed by those parties’ privacy policies.For more information about targeting and advertising cookies and how you can opt out, you can visit http://youronlinechoices.eu/ or allaboutcookies.org/manage-cookies. Please  note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt out of tailored advertising. In that case, the ads will not be tailored to your interests.
+
+4. Use of Information Collected 
+
+A) Diversified uses Data About Visitors, Data About Attendees, and Data About Customers, which may include personal data, to perform the services requested. For example, if you fill out a web form in order to access a Service, Diversified will use the information provided to contact you about your interest in the Services.
+
+B) Diversified uses Data About Attendees to plan and operate events, create and offer professional education, host online forums and in person networks in which event attendees may participate, and populate online profiles for Attendees on the Services.
+
+C) Diversified may also use Data About Customers, Data About Visitors, and Data About Attendees for marketing For example, Diversified may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding Diversified, its affiliates, and its partners, such as information about promotions or events.
+
+D) Diversified uses Billing Information solely to check financial qualifications and collect payment from prospective Customers and Attendees.
+
+E) Diversified uses Website Navigational Information to operate and improve Diversified’s websites, to protect Diversified and third parties, for security, and to prevent fraud and violation of Diversified’s applicable agreements. Diversified may also use Website Navigational Information alone or in combination with Data About Customers and Data About Visitors to provide personalized information about Diversified.
+
+F) Diversified’s Customers may electronically submit data or information to the Services for hosting purposes. Diversified will not review, share, distribute, or reference any such data except as provided in an agreement between Diversified and Customer, or as may be required by law.
+
+5. Information Sharing and Disclosure
+
+We may disclose to and/or share your information with affiliated and non-affiliated third parties in the following circumstances.
+
+A) Consent: If you consent to the disclosure, we may do so.
+
+B) Service Providers: For business purposes, we may provide access to your information to select third parties who perform services for us such as billing, sales, marketing, advertising, market research, fulfillment, data storage, transfer, analysis and processing, analytics, participation in a contest or sweepstakes, and legal services. If a third party is not required to perform contracted services, such as marketing, market research, and others, you can opt-in or opt-out by emailing a request to privacy@divcom.com.
+
+C) Other Third Parties: From time to time, Diversified may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly offered product or service from Diversified, Diversified may share Data About Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s). Please note, at that point our business partner’s use of the information will be in accordance with their own privacy policies. If you do not want your information to be shared in this manner, you may email privacy@divcom.com and request for your information to be removed from jointly offered services.
+
+D) Data About Attendees: Diversified does not share Data About Attendees with business partners unless: (i) you specifically opt in to such sharing via an event registration form; or (ii) you attend a Diversified event and have your attendee badge scanned by a business partner. If you choose to share your information with business partners in the manners described above, your information will be subject to the business partners’ respective privacy policies. If you do not want your information to be shared, or wish to stop sharing, you may email privacy@divcom.com and request that your information be removed from business partner sharing.
+
+E) Protection of Diversified and Others: We may disclose any of your information to: (i) comply with legal process; (ii) enforce any agreements that you entered into with us; (iii) respond to claims that any content violates the rights of third parties; (iv) respond to your requests for customer service; and/or (v) the extent necessary for the purposes of the legitimate interests pursued by us or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests for fundamental rights and freedoms of the data subjects. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
+
+F) Business Transfers: We reserve the right to disclose and transfer all of your information, including, without limitation, your Contact Information, Billing Information, or Optional Information, to a successor (or potential successor) company in connection with a merger, acquisition, or sale of all, or components, of our business, or in connection with due diligence associated with any such transaction.
+
+ 
+
+6. Online Analytics
+
+We may use third-party web analytics services such as Google Analytics. These service providers use Website Navigational Information to help us analyze how users use the Services, including by noting    the third-party website from which you arrive. The information collected by the technology (including    your IP address) will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to advertising, as described in the following section. To  prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-Out Browser Add-On by clicking here.
+
+7. Tailored Advertising
+
+A) Third parties whose products or services are accessible or advertised via the Services may also place cookies or other tracking technologies on your computer, mobile phone, or other device used to access the Services to collect information about your use of the Services in order to (a) inform, optimize, and serve ads based on past visits to our websites and other sites and (b) report how our advertising impressions, other uses of advertising services, and interactions with these advertising impressions and advertising services are related to the use of our Services. We also allow other third parties (e.g., ad networks and ad servers) to serve tailored ads to you on the Services, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Services.
+
+B) We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies may offer you a way to opt out of ad targeting as described below.
+
+C) You may receive tailored advertising on your computer or mobile device through a web browser. If you are interested in more information about tailored browser advertising and how you can generally control cookies, you may visit the Network Advertising Initiative’s Consumer Opt-Out Link, the Digital Advertising Alliance’s Consumer Opt-Out Link, or the European Interactive Digital Advertising  Alliance, “Your Online Choices” page to opt out of receiving tailored advertising from companies that participate in those programs. To opt out of Google Analytics for Display Advertising or customize Google Display Network ads, you can visit the Google Ads Settings page. Please note that, to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt out of tailored advertising. In that case, the ads will just not be tailored to your interests. Also, we do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
+
+8. Security
+
+We have appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access and maintain data security of, and to use correctly, the information we collect online. These safeguards vary based on the sensitivity of the information that we collect and store. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personal information that we collect will never be disclosed in a manner that  is inconsistent with this Policy.
+
+9. Communications Preferences
+
+Diversified offers Visitors, Customers, and Attendees who provide contact information a means to choose how Diversified communicates. You may manage your receipt of marketing and non- transactional communications by clicking on the “unsubscribe” link located on the bottom of each of Diversified’s marketing emails. Additionally, you may send specific requests to privacy@divcom.com.
+
+10. Public Forums, Refer a Friend, and Customer Testimonials
+
+A) Diversified may provide bulletin boards, blogs, or chat rooms through the Services. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Diversified is not responsible for the personal information you choose to submit in these forums.
+
+B) Customers, Visitors, and Attendees may elect to use Diversified’s referral program to inform friends about the Services. When using the referral program, Diversified requests the friend’s name and email address. Diversified will automatically send the friend a one-time email inviting him or her to visit Diversified’s websites. Diversified does not store this information.
+
+C) Diversified posts a list of Customers and testimonials on Diversified’s websites that contain information such as Customer names and titles. Diversified obtains the consent of each Customer prior to posting such information or testimonials.
+
+11. Users From Outside the United States
+
+The Services are governed by United States law and applicable state law. If you are using the Services from outside the United States, your information may be accessed from, transferred to, stored, and processed in our facilities, in various countries around the globe, including the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. When we transfer your information globally, we will take legally applicable steps to protect your information. This Policy shall apply even if Diversified transfers your information to or accesses your information from other countries.
+
+12. Linked Sites and Advertisements
+
+The Services may contain links to third-party websites. We are not responsible for the privacy practices  or the content of those third-party websites. Any information you provide via those services is subject to the applicable third-party privacy policies and is not covered by this Policy.
+
+13. Children
+
+As a business-to-business company, our Services do not target and are not intended to attract children under the age of 16. Diversified does not knowingly solicit personal information from children under the age of 16. Should we learn or be notified that we have collected information from users under the age of 16, we will immediately delete such personal information.
+
+14. No Rights of Third Parties
+
+This Policy does not create rights enforceable by third parties.
+
+15. How to Contact Diversified
+
+If you have any questions, comments, or concerns regarding this Policy or Diversified’s privacy    practices may be submitted via email to privacy@divcom.com, or in writing by addressing your inquiries to:
+
+Diversified Communications 121 Free St.
+Portland ME 04101
+Attn: Data Protection Officer
+
+16. How You Can Access and Update Your Information
+
+You may review and update certain user profile information by logging in, as applicable, to the relevant portions of the Services where such information may be updated, or by contacting  privacy@divcom.com.
+
+17. Changes to This Policy
+
+Diversified reserves the right to change this Policy from time to time. Please check this page periodically for changes. If we make any material changes to this Policy, we will provide notification of the material changes to this Policy through the Diversified Web site at least thirty (30) days prior to the change taking effect.
+
+ 
+
+This Policy was last modified on 25 June 2020
+
+Scroll to top
+Privacy Policy | DSAR Requests / Do Not Sell My Personal Info | Terms of Use | Locations | Events, Products & Services
+© 2022 Diversified Communications. All rights reserved.
+
+We use cookies to understand how you use our site and to improve your experience. This includes personalizing content and advertising. By continuing to use our site, you accept our use of cookies. To learn more, please review ourprivacy policy.
+
+Accept Cookies
